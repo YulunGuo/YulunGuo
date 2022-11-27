@@ -19,9 +19,9 @@
 This is my steam page ---> **[My Steam Page](https://steamcommunity.com/profiles/76561199030548825/)**
 - 👯‍♀️ **Impart**  
 You can see that I'm studying **Impart Philosophy** in Society University now,but you may not know what the **Impart Philosophy** is.  
-**❤If you want to understand what the Impart is and how to use the Impart Philosophy to evaluate the whole world around us,please click the link below and join us!**  
+**❤If you want to understand what the Impart is and how to use the Impart Philosophy to evaluate the whole world around us,please click the link below and join us !**  
 👉 **[Enjoy Impart Philosophy](https://tse2-mm.cn.bing.net/th/id/OIP-C.dFs-uMarweZg64slgQcncwHaHa?pid=ImgDet&rs=1)** 👈  
-**❤You can also click the link below to get a rough idea of Impart Philosophy if you don't want to join us now!**  
+**❤You can also click the link below to get a rough idea of the Impart Philosophy if you don't want to join us now !**  
 👉 **[Brief Introduction of Impart](https://tse2-mm.cn.bing.net/th/id/OIP-C.dFs-uMarweZg64slgQcncwHaHa?pid=ImgDet&rs=1)** 👈  
 - 💻 **code**  
 Now I'm interested in **Embedded System**,**Signal Processing**,**Mathematics** and **English**.
