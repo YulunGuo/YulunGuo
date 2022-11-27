@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)  
 
-## Introduction😋  
+## Introduction😋
 ### **1. About Me**
 - 👋 Hi, I’m **Yulun Guo**
 - 👀 I’m interested in **Abstract**
@@ -28,6 +28,8 @@ Now I'm interested in **Embedded System**,**Signal Processing**,**Mathematics** 
 When I am coding, I usually use **Python** and **C++** to complete my work.
 
 ## Statistic🤗
+<img align="right" alt="JPG" width=40% src="https://picx.zhimg.com/v2-d1ec9f29f8e78666ebbbe4ab5debb1bf_r.jpg?source=1940ef5c" />  
+
 ### **1. Vistor Count**  
 **you are my**
 ![Visitor Count](https://profile-counter.glitch.me/YulunGuo/count.svg)
