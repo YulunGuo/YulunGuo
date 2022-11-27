@@ -35,7 +35,8 @@ When I am coding, I usually use **Python** and **C++** to complete my work.
 ![Visitor Count](https://profile-counter.glitch.me/YulunGuo/count.svg)
 **visitor**  
 ### **2. Top Languages**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YulunGuo&layout=compact)](https://github.com/YulunGuo/github-readme-stats)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YulunGuo&theme=light&layout=compact)  
+
 ### **3. Social Media** 
 ![Zhihu Static](https://stats.justsong.cn/api/zhihu?username=hsbhdsha)
 ## End🥰  
