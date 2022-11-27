@@ -39,7 +39,10 @@ When I am coding, I usually use **Python** and **C++** to complete my work.
 
 ### **3. Social Media** 
 ![Zhihu Static](https://stats.justsong.cn/api/zhihu?username=hsbhdsha)  
-<a href=#><img src="contributions.svg"></a>
+
+### **4. Code Contribution**
+![](https://raw.githubusercontent.com/YulunGuo/YulunGuo/main/assets/github-contribution-grid-snake.svg)  
+
 ## In the End🥰  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06151C&width=435&lines=See+you+again!)](https://git.io/typing-svg)  
 <img align="center" alt="GIF" src="https://i0.hdslb.com/bfs/article/e06eed502cfc9352270e8bb291c86df0c440232f.gif" />
