@@ -34,7 +34,7 @@ When I am coding, I usually use **Python** and **C++** to complete my work.
 **you are my**
 ![Visitor Count](https://profile-counter.glitch.me/YulunGuo/count.svg)
 **visitor**  
-### **2. Top Languages**  
+### **2. Most Used Languages**  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YulunGuo&theme=light&layout=compact)  
 
 ### **3. Social Media** 
