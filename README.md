@@ -40,7 +40,7 @@ When I am coding, I usually use **Python** and **C++** to complete my work.
 ### **3. Social Media** 
 ![Zhihu Static](https://stats.justsong.cn/api/zhihu?username=hsbhdsha)  
 
-### **4. Code Contribution**  
+### **4. Code Contributions**  
 ![](https://raw.githubusercontent.com/YulunGuo/YulunGuo/main/assets/github-contribution-grid-snake.svg)  
 
 
