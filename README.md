@@ -1,4 +1,5 @@
 # Hello,World!👊  
+
 ![](https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)  
@@ -6,9 +7,9 @@
 ## Introduction😋  
 ### **1. About Me**
 - 👋 Hi, I’m **Yulun Guo**
-- 👀 I’m interested in **abstract**
+- 👀 I’m interested in **Abstract**
 - 🌱 I’m currently learning **Communication Engineering**
-- 💞️ I’m looking to collaborate on **computer games**
+- 💞️ I’m looking to collaborate on **Computer Games**
 - 📫 How to reach me **[Zhihu Page](https://www.zhihu.com/people/hsbhdsha)**
 ### **2. Education**  
 - ✍ **[Carleton University](https://www.shu.edu.cn/)** —— Chinese Philosophy —— Bachelor's Degree
@@ -28,12 +29,13 @@ When I am coding, I usually use **Python** and **C++** to complete my work.
 
 ## Statistic🤗
 ### **1. Vistor Count**  
-![Visitor Count](https://profile-counter.glitch.me/YulunGuo/count.svg)    
+**you are my**
+![Visitor Count](https://profile-counter.glitch.me/YulunGuo/count.svg)
+**visitor**  
 ### **2. Top Languages**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YulunGuo&layout=compact)](https://github.com/YulunGuo/github-readme-stats)  
 ### **3. Social Media** 
 ![Zhihu Static](https://stats.justsong.cn/api/zhihu?username=hsbhdsha)
-![Bilibili Static](https://stats.justsong.cn/api/bilibili/?id=483341482)
 ## End🥰  
-### **See you again!**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06151C&width=435&lines=See+you+again!)](https://git.io/typing-svg)  
 <img align="center" alt="GIF" src="https://i0.hdslb.com/bfs/article/e06eed502cfc9352270e8bb291c86df0c440232f.gif" />
