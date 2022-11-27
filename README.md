@@ -28,7 +28,7 @@ Now I'm interested in **Embedded System**,**Signal Processing**,**Mathematics** 
 When I am coding, I usually use **Python** and **C++** to complete my work.
 
 ## Statistic🤗
-<img align="right" alt="JPG" width=40% src="https://picx.zhimg.com/v2-d1ec9f29f8e78666ebbbe4ab5debb1bf_r.jpg?source=1940ef5c" />  
+<img align="right" alt="JPG" width=45% src="https://picx.zhimg.com/v2-d1ec9f29f8e78666ebbbe4ab5debb1bf_r.jpg?source=1940ef5c" />  
 
 ### **1. Vistor Count**  
 **you are my**
