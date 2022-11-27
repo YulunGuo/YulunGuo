@@ -9,7 +9,7 @@
 - 👋 Hi, I’m **Yulun Guo**
 - 👀 I’m interested in **Abstract**
 - 🌱 I’m currently learning **Communication Engineering**
-- 💞️ I’m looking to collaborate on **Computer Games**
+- 💞️ I’m looking to collaborate on **I**
 - 📫 How to reach me **[Zhihu Page](https://www.zhihu.com/people/hsbhdsha)**
 ### **2. Education**  
 - ✍ **[Carleton University](https://www.shu.edu.cn/)** —— Chinese Philosophy —— Bachelor's Degree
