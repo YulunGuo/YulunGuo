@@ -40,8 +40,10 @@ When I am coding, I usually use **Python** and **C++** to complete my work.
 ### **3. Social Media** 
 ![Zhihu Static](https://stats.justsong.cn/api/zhihu?username=hsbhdsha)  
 
-### **4. Code Contribution**
-![](https://raw.githubusercontent.com/YulunGuo/YulunGuo/main/assets/github-contribution-grid-snake.svg)  
+### **4. Code Contribution**  
+![github contribution grid snake animation](https://raw.githubusercontent.com/YulunGuo/YulunGuo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YulunGuo/YulunGuo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+_generated with [YulunGuo/snk](https://github.com/YulunGuo/snk)_  
+
 
 ## In the End🥰  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06151C&width=435&lines=See+you+again!)](https://git.io/typing-svg)  
