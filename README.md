@@ -41,8 +41,7 @@ When I am coding, I usually use **Python** and **C++** to complete my work.
 ![Zhihu Static](https://stats.justsong.cn/api/zhihu?username=hsbhdsha)  
 
 ### **4. Code Contribution**  
-![github contribution grid snake animation](https://raw.githubusercontent.com/YulunGuo/YulunGuo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YulunGuo/YulunGuo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-_generated with [YulunGuo/snk](https://github.com/YulunGuo/snk)_  
+![](https://raw.githubusercontent.com/YulunGuo/YulunGuo/main/assets/github-contribution-grid-snake.svg)  
 
 
 ## In the End🥰  
