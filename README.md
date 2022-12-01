@@ -16,7 +16,8 @@
 - ✍ **[Society University](https://www.whu.edu.cn/)** —— Impart Philosophy —— Master's Degree
 ### **3. Interested**
 - 😇 **Steam**  
-This is my **Steam** page ---> **[My Steam Page](https://steamcommunity.com/profiles/76561199030548825/)**
+This is my **Steam** page ---> **[My Steam Page](https://steamcommunity.com/profiles/76561199030548825/)**  
+**(Terraria is the best game!)**
 - 👯‍♀️ **Impart**  
 You can see that I'm studying **Impart Philosophy** in Society University now,but you may not know what the **Impart Philosophy** is.  
 **❤If you want to understand what the Impart is and how to use the Impart Philosophy to evaluate the whole world around us,please click the link below and join us !**  
