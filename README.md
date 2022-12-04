@@ -25,7 +25,7 @@ You can see that I'm studying **Impart Philosophy** in Society University now,bu
 **❤You can also click the link below to get a rough idea of the Impart Philosophy if you don't want to join us now !**  
 👉 **[Brief Introduction of Impart](https://tse2-mm.cn.bing.net/th/id/OIP-C.dFs-uMarweZg64slgQcncwHaHa?pid=ImgDet&rs=1)** 👈  
 - 💻 **code**  
-Now I'm interested in **Embedded System**,**Signal Processing**,**Mathematics** and **English**.
+Now I'm interested in **Embedded System**,**Signal Processing**,**Mathematics** and **English**.  
 When I am coding, I usually use **Python** and **C++** to complete my work.
 
 ## Statistic🤗
